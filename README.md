@@ -6,8 +6,8 @@
   <br/>
 
   <!-- DESCRIPCIÓN -->
-  <p>
-    <strong>Ingenieria, diseño y optimización de sistemas complejos con impacto medible.</strong><br/>
+  <p style="font-size: 1.1em;">
+    <strong style="font-size: 1.2em;">Ingenieria, diseño y optimización de sistemas complejos con impacto medible.</strong><br/>
     Sistemas IoT y visión artificial aplicados a procesamiento y visualización de datos en tiempo real.
   </p>
 
