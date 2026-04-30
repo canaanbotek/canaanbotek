@@ -29,8 +29,11 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 
-
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=canaanbotek&style=for-the-badge&color=green" align="center" />
+</div> 
 
 <!-- SECCIÓN SOBRE MI Y QUE ESTOY HACIENDO -->
 ## Sobre mi y que hago actualmente
@@ -39,11 +42,11 @@
 - 🌱 **Sumando a mi Stack nuevas herramientas como Claude Code y Obsidian y sigo fortaleciendo áreas de conocimiento que implican el desarrollo de soluciones con IoT e Inteligencia Artificial**
 - 💼 **+4 años trabajando en la digitalización de procesos y volviendo realidad proyectos elaborando prototipos funcionales**
 - 🌍 <strong>La Plata, Buenos Aires, Argentina</strong> <a href="https://www.google.com/maps?q=-34.92145,-57.95453">📌</a>
-- 💬 **Sientete libre de venir a tomar un café**
+- 💬 **Tomemos un café ☕**
 
 
 <!-- SECCIÓN STACK TECONOLÓGICO -->
-## Stack de herramientas tecnologicas
+## Stack de herramientas tecnológicas
 
 ![Referencia](https://img.shields.io/badge/Escala%20de%20habilidad-1%20(básico)%20│%2010%20(experto)-3498db?style=flat-square&logo=simpleanalytics)
 
@@ -79,7 +82,7 @@
 ![YOLO](https://img.shields.io/badge/YOLO%20%7C%208-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe%20%7C%208-0097A7?style=flat-square&logo=google&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20%7C%208-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab%20%7C%209-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Colab](https://img.shields.io/badge/Colab%20%7C%209-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
 **Embedded & IoT**
 
@@ -129,6 +132,14 @@
 - **Tecnologías:** `[tecnología 1]` · `[tecnología 2]` · `[tecnología 3]`
 - **Highlights:** [logros medibles, e.g. "se redujo el costo operacional un 40%", "adoptado por X cantidad de usarios", "tiempos de fabricacion reducidos un X%. "Numeros de accidentes disminuidos un 20%"]
 -->
+
+<!--
+## Estadisticas generales
+
+### Lenguajes
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=canaanbotek&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+ -->
+
 
 ---
 
