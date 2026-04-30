@@ -2,12 +2,15 @@
 
   <!-- BANNER -->
   <img src="wall_4.png" alt="Banner" width="100%" style="border-radius:8px;" />
+  <p align="right">
+    <sub>Image by 
+      <a href="https://futurescapesuniverse.com/">Futurescapes</a>
+    </sub>
+  </p>
 
 </div>
-<p align="right"><sub>Image by <a href="[https://futurescapesuniverse.com/]">Futurescapes</a></sub></p>
-<div align="center">
 
-  <br/>
+  <div align="center">
 
   <!-- DESCRIPCIÓN -->
   <p>
@@ -26,22 +29,16 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 
-  <br/>
-
-  <!-- CONTADOR DE VISITAS -->
-  <img src="https://komarev.com/ghpvc/?username=[canaanbotek]&label=Profile+Views&color=58a6ff&style=flat" alt="profile views" />
 
 </div>
-
----
 
 <!-- SECCIÓN SOBRE MI Y QUE ESTOY HACIENDO -->
 ## Sobre mi y que hago actualmente
 
-- 🔭 **Trabajando en diversos proyectos personales, dedicando horas a nuestro emprendimiento [3DIndustry](https://3dindustry.vercel.app/)**
-- 🌱 **Seguimos aprendiendo sobre nuevas herramientas: Claude Code, Obsidian y no nos detenemos en fortalecer conceptos sobre todas las áreas de interes que implican el desarrollo de soluciones con IoT e Inteligencia Artificial**
+- 🔭 **Trabajando en diversos proyectos personales, y dedicandole horas al más importante [3DIndustry](https://3dindustry.vercel.app/)**
+- 🌱 **Sumando a mi Stack nuevas herramientas como Claude Code y Obsidian y sigo fortaleciendo áreas de conocimiento que implican el desarrollo de soluciones con IoT e Inteligencia Artificial**
 - 💼 **+4 años trabajando en la digitalización de procesos y volviendo realidad proyectos elaborando prototipos funcionales**
-- 🌍 **La Plata, Buenos Aires, Argentina**
+- 🌍 <strong>La Plata, Buenos Aires, Argentina</strong> <a href="https://www.google.com/maps?q=-34.92145,-57.95453">📌</a>
 - 💬 **Sientete libre de venir a tomar un café**
 
 <!-- SECCIÓN STACK TECONOLÓGICO -->
@@ -100,11 +97,11 @@
 ---
 
 <div align="center">
-  <i>Abierto a aquellas oportunidades que me den la posibilidad de trabajar en grandes proyectos — Contáctate</i>
+  <h4><i>Buscando oportunidades para trabajar en grandes proyectos — Contáctate</i></h4>
 </div>
 
 ---
 
 <!-- Footer -->
   <img src="wall_2.png" alt="Banner" width="100%" style="border-radius:8px;" />
-<p align="right"><sub>Image by <a href="[https://futurescapesuniverse.com/]">Futurescapes</a></sub></p>
+<p align="right"><sub>Image by <a href="https://futurescapesuniverse.com/">Futurescapes</a></sub></p>
