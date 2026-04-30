@@ -34,7 +34,7 @@
 <!-- SECCIÓN SOBRE MI Y QUE ESTOY HACIENDO -->
 ## Sobre mi y que hago actualmente
 
-- 🔭 **Trabajando en diversos proyectos personales, dedicando horas a nuestro emprendimiento 3DIndustry**
+- 🔭 **Trabajando en diversos proyectos personales, dedicando horas a nuestro emprendimiento [3DIndustry](https://3dindustry.vercel.app/)**
 - 🌱 **Seguimos aprendiendo sobre nuevas herramientas: Claude Code, Obsidian y no nos detenemos en fortalecer conceptos sobre todas las áreas de interes que implican el desarrollo de soluciones con IoT e Inteligencia Artificial**
 - 💼 **+4 años trabajando en la digitalización de procesos y volviendo realidad proyectos elaborando prototipos funcionales**
 - 🌍 **La Plata, Buenos Aires, Argentina**
