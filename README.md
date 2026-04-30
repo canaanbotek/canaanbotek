@@ -3,6 +3,10 @@
   <!-- BANNER -->
   <img src="wall_4.png" alt="Banner" width="100%" style="border-radius:8px;" />
 
+</div>
+<p align="right"><sub>Image by <a href="[https://futurescapesuniverse.com/]">Futurescapes</a></sub></p>
+<div align="center">
+
   <br/>
 
   <!-- DESCRIPCIÓN -->
@@ -103,3 +107,4 @@
 
 <!-- Footer -->
   <img src="wall_2.png" alt="Banner" width="100%" style="border-radius:8px;" />
+<p align="right"><sub>Image by <a href="[https://futurescapesuniverse.com/]">Futurescapes</a></sub></p>
