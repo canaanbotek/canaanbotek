@@ -111,6 +111,7 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian%20%7C%204-483699?style=flat-square&logo=obsidian&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion%20%7C%204-000000?style=flat-square&logo=notion&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code%20%7C%207-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM%20%7C%205-CC785C?style=flat-square&logo=notebooklm&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal%20%7C%208-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman%20%7C%208-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad%20%7C%207-314CB0?style=flat-square&logo=kicad&logoColor=white)
