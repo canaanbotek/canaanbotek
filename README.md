@@ -28,8 +28,11 @@
   <a href="https://canaanbotek.github.io/cv_page/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="cv_1.pdf" download="Christian_Canaan_CV.pdf">
+  <a href="./cv_1.pdf" download="Christian_Canaan_CV.pdf">
     <img src="https://img.shields.io/badge/Descargar_CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"/>
+  </a>
+    <a href="./cv_1.pdf" download="Christian_Canaan_Botek_CV.pdf">
+    <img src="https://img.shields.io/badge/📄_Descargar_CV-2E8B57?style=for-the-badge&logo=pdf&logoColor=white" alt="Descargar CV"/>
   </a>
 
 </div>
