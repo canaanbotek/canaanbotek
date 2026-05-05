@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- BANNER -->
-  <img src="wall_4.png" alt="Banner" width="100%" style="border-radius:8px;" />
+  <img src="wall_5.png" alt="Banner" width="100%" style="border-radius:8px;" />
   <p align="right">
     <sub>Image by 
-      <a href="https://futurescapesuniverse.com/">Futurescapes</a>
+      <a href="https://www.oracle.com/industrial-manufacturing/industry-4-challenges/">ORACLE</a>
     </sub>
   </p>
 
