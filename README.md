@@ -15,7 +15,7 @@
   <!-- DESCRIPCIÓN -->
   <p>
     <strong>Ingenieria, diseño y optimización de sistemas complejos con impacto medible.</strong><br/>
-    Sistemas IoT y visión artificial aplicados a procesamiento y visualización de datos en tiempo real.
+    Ingeniero Electrónico | IoT e IA aplicados a Sistemas Industriales | Automatización y Datos
   </p>
 
   <!-- CONTACTO / REDES -->
